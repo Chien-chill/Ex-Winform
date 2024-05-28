@@ -1,0 +1,208 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\source\\repos\\BaiKiemTraSo3_Tran_Cong_Dong_21203100059\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{49FA88D3-D00D-4494-814E-309125AFEBE3}|BaiKiemTraSo3_Tran_Cong_Dong_21203100059\\BaiKiemTraSo3_Tran_Cong_Dong_21203100059.csproj|d:\\source\\repos\\baikiemtraso3_tran_cong_dong_21203100059\\baikiemtraso3_tran_cong_dong_21203100059\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49FA88D3-D00D-4494-814E-309125AFEBE3}|BaiKiemTraSo3_Tran_Cong_Dong_21203100059\\BaiKiemTraSo3_Tran_Cong_Dong_21203100059.csproj|solutionrelative:baikiemtraso3_tran_cong_dong_21203100059\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49FA88D3-D00D-4494-814E-309125AFEBE3}|BaiKiemTraSo3_Tran_Cong_Dong_21203100059\\BaiKiemTraSo3_Tran_Cong_Dong_21203100059.csproj|d:\\source\\repos\\baikiemtraso3_tran_cong_dong_21203100059\\baikiemtraso3_tran_cong_dong_21203100059\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{49FA88D3-D00D-4494-814E-309125AFEBE3}|BaiKiemTraSo3_Tran_Cong_Dong_21203100059\\BaiKiemTraSo3_Tran_Cong_Dong_21203100059.csproj|solutionrelative:baikiemtraso3_tran_cong_dong_21203100059\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49FA88D3-D00D-4494-814E-309125AFEBE3}|BaiKiemTraSo3_Tran_Cong_Dong_21203100059\\BaiKiemTraSo3_Tran_Cong_Dong_21203100059.csproj|D:\\source\\repos\\BaiKiemTraSo3_Tran_Cong_Dong_21203100059\\baikiemtraso3_tran_cong_dong_21203100059\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49FA88D3-D00D-4494-814E-309125AFEBE3}|BaiKiemTraSo3_Tran_Cong_Dong_21203100059\\BaiKiemTraSo3_Tran_Cong_Dong_21203100059.csproj|solutionrelative:baikiemtraso3_tran_cong_dong_21203100059\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49FA88D3-D00D-4494-814E-309125AFEBE3}|BaiKiemTraSo3_Tran_Cong_Dong_21203100059\\BaiKiemTraSo3_Tran_Cong_Dong_21203100059.csproj|d:\\source\\repos\\baikiemtraso3_tran_cong_dong_21203100059\\baikiemtraso3_tran_cong_dong_21203100059\\capnhat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49FA88D3-D00D-4494-814E-309125AFEBE3}|BaiKiemTraSo3_Tran_Cong_Dong_21203100059\\BaiKiemTraSo3_Tran_Cong_Dong_21203100059.csproj|solutionrelative:baikiemtraso3_tran_cong_dong_21203100059\\capnhat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49FA88D3-D00D-4494-814E-309125AFEBE3}|BaiKiemTraSo3_Tran_Cong_Dong_21203100059\\BaiKiemTraSo3_Tran_Cong_Dong_21203100059.csproj|D:\\source\\repos\\BaiKiemTraSo3_Tran_Cong_Dong_21203100059\\baikiemtraso3_tran_cong_dong_21203100059\\bai3_sql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49FA88D3-D00D-4494-814E-309125AFEBE3}|BaiKiemTraSo3_Tran_Cong_Dong_21203100059\\BaiKiemTraSo3_Tran_Cong_Dong_21203100059.csproj|solutionrelative:baikiemtraso3_tran_cong_dong_21203100059\\bai3_sql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49FA88D3-D00D-4494-814E-309125AFEBE3}|BaiKiemTraSo3_Tran_Cong_Dong_21203100059\\BaiKiemTraSo3_Tran_Cong_Dong_21203100059.csproj|D:\\source\\repos\\BaiKiemTraSo3_Tran_Cong_Dong_21203100059\\baikiemtraso3_tran_cong_dong_21203100059\\dbsql_bai3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49FA88D3-D00D-4494-814E-309125AFEBE3}|BaiKiemTraSo3_Tran_Cong_Dong_21203100059\\BaiKiemTraSo3_Tran_Cong_Dong_21203100059.csproj|solutionrelative:baikiemtraso3_tran_cong_dong_21203100059\\dbsql_bai3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49FA88D3-D00D-4494-814E-309125AFEBE3}|BaiKiemTraSo3_Tran_Cong_Dong_21203100059\\BaiKiemTraSo3_Tran_Cong_Dong_21203100059.csproj|D:\\source\\repos\\BaiKiemTraSo3_Tran_Cong_Dong_21203100059\\baikiemtraso3_tran_cong_dong_21203100059\\capnhat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{49FA88D3-D00D-4494-814E-309125AFEBE3}|BaiKiemTraSo3_Tran_Cong_Dong_21203100059\\BaiKiemTraSo3_Tran_Cong_Dong_21203100059.csproj|solutionrelative:baikiemtraso3_tran_cong_dong_21203100059\\capnhat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49FA88D3-D00D-4494-814E-309125AFEBE3}|BaiKiemTraSo3_Tran_Cong_Dong_21203100059\\BaiKiemTraSo3_Tran_Cong_Dong_21203100059.csproj|D:\\source\\repos\\BaiKiemTraSo3_Tran_Cong_Dong_21203100059\\baikiemtraso3_tran_cong_dong_21203100059\\bosung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49FA88D3-D00D-4494-814E-309125AFEBE3}|BaiKiemTraSo3_Tran_Cong_Dong_21203100059\\BaiKiemTraSo3_Tran_Cong_Dong_21203100059.csproj|solutionrelative:baikiemtraso3_tran_cong_dong_21203100059\\bosung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49FA88D3-D00D-4494-814E-309125AFEBE3}|BaiKiemTraSo3_Tran_Cong_Dong_21203100059\\BaiKiemTraSo3_Tran_Cong_Dong_21203100059.csproj|D:\\source\\repos\\BaiKiemTraSo3_Tran_Cong_Dong_21203100059\\baikiemtraso3_tran_cong_dong_21203100059\\bai3_sql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{49FA88D3-D00D-4494-814E-309125AFEBE3}|BaiKiemTraSo3_Tran_Cong_Dong_21203100059\\BaiKiemTraSo3_Tran_Cong_Dong_21203100059.csproj|solutionrelative:baikiemtraso3_tran_cong_dong_21203100059\\bai3_sql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49FA88D3-D00D-4494-814E-309125AFEBE3}|BaiKiemTraSo3_Tran_Cong_Dong_21203100059\\BaiKiemTraSo3_Tran_Cong_Dong_21203100059.csproj|D:\\source\\repos\\BaiKiemTraSo3_Tran_Cong_Dong_21203100059\\baikiemtraso3_tran_cong_dong_21203100059\\bosung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{49FA88D3-D00D-4494-814E-309125AFEBE3}|BaiKiemTraSo3_Tran_Cong_Dong_21203100059\\BaiKiemTraSo3_Tran_Cong_Dong_21203100059.csproj|solutionrelative:baikiemtraso3_tran_cong_dong_21203100059\\bosung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49FA88D3-D00D-4494-814E-309125AFEBE3}|BaiKiemTraSo3_Tran_Cong_Dong_21203100059\\BaiKiemTraSo3_Tran_Cong_Dong_21203100059.csproj|D:\\source\\repos\\BaiKiemTraSo3_Tran_Cong_Dong_21203100059\\baikiemtraso3_tran_cong_dong_21203100059\\bai4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{49FA88D3-D00D-4494-814E-309125AFEBE3}|BaiKiemTraSo3_Tran_Cong_Dong_21203100059\\BaiKiemTraSo3_Tran_Cong_Dong_21203100059.csproj|solutionrelative:baikiemtraso3_tran_cong_dong_21203100059\\bai4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "D:\\source\\repos\\BaiKiemTraSo3_Tran_Cong_Dong_21203100059\\BaiKiemTraSo3_Tran_Cong_Dong_21203100059\\MainForm.cs",
+              "RelativeDocumentMoniker": "BaiKiemTraSo3_Tran_Cong_Dong_21203100059\\MainForm.cs",
+              "ToolTip": "D:\\source\\repos\\BaiKiemTraSo3_Tran_Cong_Dong_21203100059\\BaiKiemTraSo3_Tran_Cong_Dong_21203100059\\MainForm.cs",
+              "RelativeToolTip": "BaiKiemTraSo3_Tran_Cong_Dong_21203100059\\MainForm.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAgwBkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T09:06:12.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "D:\\source\\repos\\BaiKiemTraSo3_Tran_Cong_Dong_21203100059\\BaiKiemTraSo3_Tran_Cong_Dong_21203100059\\MainForm.cs",
+              "RelativeDocumentMoniker": "BaiKiemTraSo3_Tran_Cong_Dong_21203100059\\MainForm.cs",
+              "ToolTip": "D:\\source\\repos\\BaiKiemTraSo3_Tran_Cong_Dong_21203100059\\BaiKiemTraSo3_Tran_Cong_Dong_21203100059\\MainForm.cs [Design]",
+              "RelativeToolTip": "BaiKiemTraSo3_Tran_Cong_Dong_21203100059\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T09:03:38.442Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BoSung.cs",
+              "DocumentMoniker": "D:\\source\\repos\\BaiKiemTraSo3_Tran_Cong_Dong_21203100059\\BaiKiemTraSo3_Tran_Cong_Dong_21203100059\\BoSung.cs",
+              "RelativeDocumentMoniker": "BaiKiemTraSo3_Tran_Cong_Dong_21203100059\\BoSung.cs",
+              "ToolTip": "D:\\source\\repos\\BaiKiemTraSo3_Tran_Cong_Dong_21203100059\\BaiKiemTraSo3_Tran_Cong_Dong_21203100059\\BoSung.cs",
+              "RelativeToolTip": "BaiKiemTraSo3_Tran_Cong_Dong_21203100059\\BoSung.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAA0wC4AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T07:34:37.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Bai3_SQL.cs",
+              "DocumentMoniker": "D:\\source\\repos\\BaiKiemTraSo3_Tran_Cong_Dong_21203100059\\BaiKiemTraSo3_Tran_Cong_Dong_21203100059\\Bai3_SQL.cs",
+              "RelativeDocumentMoniker": "BaiKiemTraSo3_Tran_Cong_Dong_21203100059\\Bai3_SQL.cs",
+              "ToolTip": "D:\\source\\repos\\BaiKiemTraSo3_Tran_Cong_Dong_21203100059\\BaiKiemTraSo3_Tran_Cong_Dong_21203100059\\Bai3_SQL.cs",
+              "RelativeToolTip": "BaiKiemTraSo3_Tran_Cong_Dong_21203100059\\Bai3_SQL.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwB4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T04:23:01.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "dbSQL_Bai3.cs",
+              "DocumentMoniker": "D:\\source\\repos\\BaiKiemTraSo3_Tran_Cong_Dong_21203100059\\BaiKiemTraSo3_Tran_Cong_Dong_21203100059\\dbSQL_Bai3.cs",
+              "RelativeDocumentMoniker": "BaiKiemTraSo3_Tran_Cong_Dong_21203100059\\dbSQL_Bai3.cs",
+              "ToolTip": "D:\\source\\repos\\BaiKiemTraSo3_Tran_Cong_Dong_21203100059\\BaiKiemTraSo3_Tran_Cong_Dong_21203100059\\dbSQL_Bai3.cs",
+              "RelativeToolTip": "BaiKiemTraSo3_Tran_Cong_Dong_21203100059\\dbSQL_Bai3.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAUwBsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T04:28:07.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\source\\repos\\BaiKiemTraSo3_Tran_Cong_Dong_21203100059\\BaiKiemTraSo3_Tran_Cong_Dong_21203100059\\Program.cs",
+              "RelativeDocumentMoniker": "BaiKiemTraSo3_Tran_Cong_Dong_21203100059\\Program.cs",
+              "ToolTip": "D:\\source\\repos\\BaiKiemTraSo3_Tran_Cong_Dong_21203100059\\BaiKiemTraSo3_Tran_Cong_Dong_21203100059\\Program.cs",
+              "RelativeToolTip": "BaiKiemTraSo3_Tran_Cong_Dong_21203100059\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvxIAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T08:23:45.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CapNhat.cs [Design]",
+              "DocumentMoniker": "D:\\source\\repos\\BaiKiemTraSo3_Tran_Cong_Dong_21203100059\\BaiKiemTraSo3_Tran_Cong_Dong_21203100059\\CapNhat.cs",
+              "RelativeDocumentMoniker": "BaiKiemTraSo3_Tran_Cong_Dong_21203100059\\CapNhat.cs",
+              "ToolTip": "D:\\source\\repos\\BaiKiemTraSo3_Tran_Cong_Dong_21203100059\\BaiKiemTraSo3_Tran_Cong_Dong_21203100059\\CapNhat.cs [Design]",
+              "RelativeToolTip": "BaiKiemTraSo3_Tran_Cong_Dong_21203100059\\CapNhat.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T08:59:04.299Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CapNhat.cs",
+              "DocumentMoniker": "D:\\source\\repos\\BaiKiemTraSo3_Tran_Cong_Dong_21203100059\\BaiKiemTraSo3_Tran_Cong_Dong_21203100059\\CapNhat.cs",
+              "RelativeDocumentMoniker": "BaiKiemTraSo3_Tran_Cong_Dong_21203100059\\CapNhat.cs",
+              "ToolTip": "D:\\source\\repos\\BaiKiemTraSo3_Tran_Cong_Dong_21203100059\\BaiKiemTraSo3_Tran_Cong_Dong_21203100059\\CapNhat.cs",
+              "RelativeToolTip": "BaiKiemTraSo3_Tran_Cong_Dong_21203100059\\CapNhat.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAQwD4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T07:43:29.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Bai3_SQL.cs [Design]",
+              "DocumentMoniker": "D:\\source\\repos\\BaiKiemTraSo3_Tran_Cong_Dong_21203100059\\BaiKiemTraSo3_Tran_Cong_Dong_21203100059\\Bai3_SQL.cs",
+              "RelativeDocumentMoniker": "BaiKiemTraSo3_Tran_Cong_Dong_21203100059\\Bai3_SQL.cs",
+              "ToolTip": "D:\\source\\repos\\BaiKiemTraSo3_Tran_Cong_Dong_21203100059\\BaiKiemTraSo3_Tran_Cong_Dong_21203100059\\Bai3_SQL.cs [Design]",
+              "RelativeToolTip": "BaiKiemTraSo3_Tran_Cong_Dong_21203100059\\Bai3_SQL.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T04:07:54.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BoSung.cs [Design]",
+              "DocumentMoniker": "D:\\source\\repos\\BaiKiemTraSo3_Tran_Cong_Dong_21203100059\\BaiKiemTraSo3_Tran_Cong_Dong_21203100059\\BoSung.cs",
+              "RelativeDocumentMoniker": "BaiKiemTraSo3_Tran_Cong_Dong_21203100059\\BoSung.cs",
+              "ToolTip": "D:\\source\\repos\\BaiKiemTraSo3_Tran_Cong_Dong_21203100059\\BaiKiemTraSo3_Tran_Cong_Dong_21203100059\\BoSung.cs [Design]",
+              "RelativeToolTip": "BaiKiemTraSo3_Tran_Cong_Dong_21203100059\\BoSung.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T04:12:36.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "bai4.cs [Design]",
+              "DocumentMoniker": "D:\\source\\repos\\BaiKiemTraSo3_Tran_Cong_Dong_21203100059\\BaiKiemTraSo3_Tran_Cong_Dong_21203100059\\bai4.cs",
+              "RelativeDocumentMoniker": "BaiKiemTraSo3_Tran_Cong_Dong_21203100059\\bai4.cs",
+              "ToolTip": "D:\\source\\repos\\BaiKiemTraSo3_Tran_Cong_Dong_21203100059\\BaiKiemTraSo3_Tran_Cong_Dong_21203100059\\bai4.cs [Design]",
+              "RelativeToolTip": "BaiKiemTraSo3_Tran_Cong_Dong_21203100059\\bai4.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T04:07:51.439Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
